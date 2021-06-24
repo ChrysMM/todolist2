@@ -1,0 +1,51 @@
+body
+{
+    background-color: #000099;
+
+}
+h1
+{
+	font-size:1,5em;
+	font-family: 'Helvetica', 'Arial';
+	text-align: center;
+	border: 7px rgb(253, 206, 216) solid;
+	box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.10), 0 1px 2px rgba(0, 0, 0, 0.20);
+	transition: all 0.2s ease-in-out;
+	border-radius: 10px;
+	color:rgb(255, 255, 255);
+    padding: 23px 10px 23px 10px;
+}
+ul
+{
+    
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+}
+li
+{
+    font-size:1,5em;
+	font-family: 'Helvetica', 'Arial';
+	text-align: center;
+	border: 2px rgb(253, 206, 216) solid;
+	box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.10), 0 1px 2px rgba(0, 0, 0, 0.20);
+	transition: all 0.2s ease-in-out;
+	border-radius: 5px;
+    color:rgb(255, 255, 255);
+    padding: 23px 10px 23px 10px;
+}
+form
+{
+    font-size:1,5em;
+	font-family: 'Helvetica', 'Arial';
+	text-align: center;
+	border-radius: 8px;
+	padding: 23px 10px 23px 10px;
+    color:rgb(255, 255, 255);   
+}
+input text
+{
+    border-radius: 3px;
+}
+
+
